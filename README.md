@@ -16,15 +16,15 @@ It merges overlapping content from two textbooks into a unified, non-redundant s
 
 ## 📦 Repository Structure
 
-01_python_basics/              # Minimal setup & notebook conventions (link to fundamentals repo)
-02_numpy_pandas/               # NumPy arrays, Pandas Series/DataFrame, indexing, groupby
-03_data_cleaning/              # Missing/duplicate/outliers, type/date parsing, joins
-04_data_visualization/         # Matplotlib & Seaborn (PyEcharts optional)
-05_time_series/                # Timestamp/Period/Timedelta, resampling, rolling windows
-06_text_analysis/              # Basic NLP: tokenization, bag-of-words, simple sentiment
-07_machine_learning_intro/     # KNN, train/validation split, evaluation metrics
-08_advanced_methods/           # Regression/Clustering/Association rules/ARIMA
-09_projects/                   # Domain cases: real estate, financial sentiment, stock forecasting
+**01_python_basics/** – Minimal setup & notebook conventions (link to fundamentals repo)  
+**02_numpy_pandas/** – NumPy arrays, Pandas Series/DataFrame, indexing, `groupby`  
+**03_data_cleaning/** – Missing/duplicate/outliers, type/date parsing, joins  
+**04_data_visualization/** – Matplotlib & Seaborn (PyEcharts optional)  
+**05_time_series/** – Timestamp/Period/Timedelta, resampling, rolling windows  
+**06_text_analysis/** – Basic NLP: tokenization, bag-of-words, simple sentiment  
+**07_machine_learning_intro/** – KNN, train/validation split, evaluation metrics  
+**08_advanced_methods/** – Regression, Clustering, Association rules, ARIMA  
+**09_projects/** – Domain cases: real estate, financial sentiment, stock forecasting  
 
 ---
 
