@@ -16,7 +16,6 @@ It merges overlapping content from two textbooks into a unified, non-redundant s
 
 ## 📦 Repository Structure
 
-```text
 01_python_basics/              # Minimal setup & notebook conventions (link to fundamentals repo)
 02_numpy_pandas/               # NumPy arrays, Pandas Series/DataFrame, indexing, groupby
 03_data_cleaning/              # Missing/duplicate/outliers, type/date parsing, joins
